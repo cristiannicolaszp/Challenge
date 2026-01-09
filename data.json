@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1",
+    "name": "Blue Lagoon Atoll",
+    "location": "Polinesia Francesa",
+    "price": 450000000,
+    "category": "Tropical",
+    "description": "Un atolón privado completo con 12 playas de arena blanca y un ecosistema marino virgen. Incluye mansión eco-sustentable de 15 habitaciones.",
+    "images": [
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+    ],
+    "specs": { "area": "120 hectares", "helipad": true, "privacy_level": "Ultra" }
+  },
+  {
+    "id": "2",
+    "name": "Emerald Caye",
+    "location": "Bahamas",
+    "price": 125000000,
+    "category": "Tropical",
+    "description": "La joya del Caribe. Aguas turquesas poco profundas, muelle para yates de hasta 100 metros y pista de aterrizaje privada.",
+    "images": [
+      "https://images.unsplash.com/photo-1544550581-5f7ceaf7f992",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19"
+    ],
+    "specs": { "area": "45 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "3",
+    "name": "Nordic Sanctuary",
+    "location": "Suecia",
+    "price": 85000000,
+    "category": "Arctic",
+    "description": "Para quienes buscan aislamiento total y diseño escandinavo. Incluye sauna geotérmica y búnker de seguridad.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef",
+      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+    ],
+    "specs": { "area": "10 hectares", "helipad": false, "privacy_level": "Absolute" }
+  },
+  {
+    "id": "4",
+    "name": "Isola di Venere",
+    "location": "Italia",
+    "price": 620000000,
+    "category": "Mediterranean",
+    "description": "Antigua villa romana convertida en el refugio más exclusivo del Mediterráneo. Acceso solo por mar o aire.",
+    "images": [
+      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+      "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9"
+    ],
+    "specs": { "area": "18 hectares", "helipad": true, "privacy_level": "Extreme" }
+  },
+  {
+    "id": "5",
+    "name": "Poseidon's Peak",
+    "location": "Grecia",
+    "price": 95000000,
+    "category": "Mediterranean",
+    "description": "Acantilados dramáticos con vistas al Egeo. Arquitectura cicládica moderna con bordes infinitos.",
+    "images": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077",
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2"
+    ],
+    "specs": { "area": "30 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "6",
+    "name": "Skyline Rock",
+    "location": "Dubai, UAE",
+    "price": 890000000,
+    "category": "Modern",
+    "description": "Isla artificial personalizada con tecnología de vanguardia y vistas al Burj Al Arab.",
+    "images": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+      "https://images.unsplash.com/photo-1518684079-3c830dcef090"
+    ],
+    "specs": { "area": "5 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "7",
+    "name": "Patagonia Secret",
+    "location": "Chile",
+    "price": 42000000,
+    "category": "Wild",
+    "description": "Rodeada de glaciares y bosques milenarios. Una reserva natural privada para el aventurero multimillonario.",
+    "images": [
+      "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1"
+    ],
+    "specs": { "area": "500 hectares", "helipad": false, "privacy_level": "Absolute" }
+  },
+  {
+    "id": "8",
+    "name": "Zenith Isle",
+    "location": "Japón",
+    "price": 150000000,
+    "category": "Zen",
+    "description": "Inspirada en la filosofía Wabi-Sabi. Jardines de piedra, manantiales termales naturales y total silencio.",
+    "images": [
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+      "https://images.unsplash.com/photo-1528164344705-47542687990d"
+    ],
+    "specs": { "area": "12 hectares", "helipad": true, "privacy_level": "Extreme" }
+  },
+  {
+    "id": "9",
+    "name": "Turtle Shell",
+    "location": "Islas Galápagos",
+    "price": 210000000,
+    "category": "Eco",
+    "description": "Un santuario biológico único. Construcción bajo estrictas normas de impacto cero y lujo consciente.",
+    "images": [
+      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5",
+      "https://images.unsplash.com/photo-1526333282444-837a389b0389"
+    ],
+    "specs": { "area": "80 hectares", "helipad": false, "privacy_level": "Ultra" }
+  },
+  {
+    "id": "10",
+    "name": "The Leviathan",
+    "location": "Maldivas",
+    "price": 1100000000,
+    "category": "Ultra-Luxury",
+    "description": "La isla más cara del mundo. 5 residencias independientes, discoteca privada subterránea y servicio de 100 empleados.",
+    "images": [
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+      "https://images.unsplash.com/photo-1471922694854-ff1b63b20054"
+    ],
+    "specs": { "area": "200 hectares", "helipad": true, "privacy_level": "Total" }
+  },
+  {
+    "id": "11",
+    "name": "Amber Sands",
+    "location": "Seychelles",
+    "price": 310000000,
+    "category": "Tropical",
+    "description": "Playas de granito rosado y aguas cristalinas. Ideal para pesca deportiva y relax total.",
+    "images": [
+      "https://images.unsplash.com/photo-1483683393433-71f65166240d",
+      "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd"
+    ],
+    "specs": { "area": "65 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "12",
+    "name": "Celtic Fortress",
+    "location": "Irlanda",
+    "price": 55000000,
+    "category": "Historic",
+    "description": "Un castillo del siglo XIV restaurado en su propia isla fluvial. Historia y modernidad unidas.",
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+    ],
+    "specs": { "area": "40 hectares", "helipad": false, "privacy_level": "High" }
+  },
+  {
+    "id": "13",
+    "name": "Bora Bora Estate",
+    "location": "Polinesia",
+    "price": 275000000,
+    "category": "Tropical",
+    "description": "Frente al Monte Otemanu, ofrece la mejor puesta de sol del Pacífico sur.",
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206"
+    ],
+    "specs": { "area": "25 hectares", "helipad": true, "privacy_level": "Ultra" }
+  },
+  {
+    "id": "14",
+    "name": "Dragon's Tail",
+    "location": "Vietnam",
+    "price": 190000000,
+    "category": "Exotic",
+    "description": "En el corazón de la bahía de Ha Long. Formaciones kársticas privadas y cuevas iluminadas.",
+    "images": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592",
+      "https://images.unsplash.com/photo-1536431311719-398b6704d4cc"
+    ],
+    "specs": { "area": "100 hectares", "helipad": true, "privacy_level": "Medium" }
+  },
+  {
+    "id": "15",
+    "name": "Aurelia Island",
+    "location": "Croacia",
+    "price": 115000000,
+    "category": "Mediterranean",
+    "description": "Cerca de Dubrovnik, una joya adriática con viñedos propios y producción de aceite de oliva.",
+    "images": [
+      "https://images.unsplash.com/photo-1534351590666-13e3e96b5017",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b"
+    ],
+    "specs": { "area": "22 hectares", "helipad": false, "privacy_level": "High" }
+  },
+  {
+    "id": "16",
+    "name": "The Sentinel",
+    "location": "Sudáfrica",
+    "price": 88000000,
+    "category": "Wild",
+    "description": "Encuentro del Atlántico y el Índico. Avistamiento de ballenas desde tu terraza principal.",
+    "images": [
+      "https://images.unsplash.com/photo-1505118380757-91f5f45d8de4",
+      "https://images.unsplash.com/photo-1449034446853-66c86144b0ad"
+    ],
+    "specs": { "area": "150 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "17",
+    "name": "White Pearl",
+    "location": "Filipinas",
+    "price": 420000000,
+    "category": "Tropical",
+    "description": "Buceo de clase mundial en tu propio arrecife. Arena tan fina que parece harina.",
+    "images": [
+      "https://images.unsplash.com/photo-1468413253725-0d5181091126",
+      "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6"
+    ],
+    "specs": { "area": "90 hectares", "helipad": true, "privacy_level": "Ultra" }
+  },
+  {
+    "id": "18",
+    "name": "Viking's Rest",
+    "location": "Noruega",
+    "price": 60000000,
+    "category": "Arctic",
+    "description": "Ubicada en un fiordo profundo. El lugar perfecto para observar auroras boreales en invierno.",
+    "images": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    ],
+    "specs": { "area": "35 hectares", "helipad": false, "privacy_level": "Total" }
+  },
+  {
+    "id": "19",
+    "name": "Grand Caye",
+    "location": "Belice",
+    "price": 145000000,
+    "category": "Tropical",
+    "description": "Sostenibilidad y lujo. Granja solar, desalinización propia y el Blue Hole a pocos minutos.",
+    "images": [
+      "https://images.unsplash.com/photo-1504851149312-7a075b496cc7",
+      "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57"
+    ],
+    "specs": { "area": "55 hectares", "helipad": true, "privacy_level": "High" }
+  },
+  {
+    "id": "20",
+    "name": "Obsidian Cay",
+    "location": "Fiji",
+    "price": 950000000,
+    "category": "Ultra-Luxury",
+    "description": "Un antiguo volcán inactivo transformado en una fortaleza de lujo con pistas de tenis y cine privado.",
+    "images": [
+      "https://images.unsplash.com/photo-1495954484750-af469f2f9be5",
+      "https://images.unsplash.com/photo-1502082553048-f009c37129b9"
+    ],
+    "specs": { "area": "300 hectares", "helipad": true, "privacy_level": "Absolute" }
+  }
+]
