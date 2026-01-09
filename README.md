@@ -56,7 +56,7 @@ El objetivo es demostrar tus habilidades en **arquitectura de componentes, manej
 │   │   └── useIslands.js   # Lógica de paginación y filtrado
 │   └── App.jsx
 
-
+```
 ## **Criterios de Evaluación**
 
 1. Calidad de Código: Limpieza, modularización y legibilidad.
