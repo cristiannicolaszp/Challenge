@@ -5,10 +5,10 @@
     "location": "Polinesia Francesa",
     "price": 450000000,
     "category": "Tropical",
-    "description": "Un atolón privado completo con 12 playas de arena blanca y un ecosistema marino virgen. Incluye mansión eco-sustentable de 15 habitaciones.",
+    "description": "Mansión eco-sustentable de ultra-lujo con techos de cristal y 15 suites frente al arrecife.",
     "images": [
-      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
     ],
     "specs": { "area": "120 hectares", "helipad": true, "privacy_level": "Ultra" }
   },
@@ -18,10 +18,10 @@
     "location": "Bahamas",
     "price": 125000000,
     "category": "Tropical",
-    "description": "La joya del Caribe. Aguas turquesas poco profundas, muelle para yates de hasta 100 metros y pista de aterrizaje privada.",
+    "description": "Residencia contemporánea con muelle privado para superyates y paredes de cristal motorizadas.",
     "images": [
-      "https://images.unsplash.com/photo-1544550581-5f7ceaf7f992",
-      "https://images.unsplash.com/photo-1548574505-5e239809ee19"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "https://images.unsplash.com/photo-1602075432748-82d264e2b463"
     ],
     "specs": { "area": "45 hectares", "helipad": true, "privacy_level": "High" }
   },
@@ -31,10 +31,10 @@
     "location": "Suecia",
     "price": 85000000,
     "category": "Arctic",
-    "description": "Para quienes buscan aislamiento total y diseño escandinavo. Incluye sauna geotérmica y búnker de seguridad.",
+    "description": "Diseño escandinavo minimalista. Una fortaleza de cristal y madera negra en un entorno glacial.",
     "images": [
-      "https://images.unsplash.com/photo-1500382017468-9049fed747ef",
-      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233",
+      "https://images.unsplash.com/photo-1449156733864-dd5471bb7427"
     ],
     "specs": { "area": "10 hectares", "helipad": false, "privacy_level": "Absolute" }
   },
@@ -44,10 +44,10 @@
     "location": "Italia",
     "price": 620000000,
     "category": "Mediterranean",
-    "description": "Antigua villa romana convertida en el refugio más exclusivo del Mediterráneo. Acceso solo por mar o aire.",
+    "description": "Palazzo histórico con interiores de mármol y terrazas que descienden hacia el Mar Adriático.",
     "images": [
-      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
-      "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9"
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6"
     ],
     "specs": { "area": "18 hectares", "helipad": true, "privacy_level": "Extreme" }
   },
@@ -57,10 +57,10 @@
     "location": "Grecia",
     "price": 95000000,
     "category": "Mediterranean",
-    "description": "Acantilados dramáticos con vistas al Egeo. Arquitectura cicládica moderna con bordes infinitos.",
+    "description": "Villa blanca de estilo cicládico moderno sobre un acantilado con piscina infinita de 50 metros.",
     "images": [
-      "https://images.unsplash.com/photo-1533105079780-92b9be482077",
-      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2"
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9"
     ],
     "specs": { "area": "30 hectares", "helipad": true, "privacy_level": "High" }
   },
@@ -70,10 +70,10 @@
     "location": "Dubai, UAE",
     "price": 890000000,
     "category": "Modern",
-    "description": "Isla artificial personalizada con tecnología de vanguardia y vistas al Burj Al Arab.",
+    "description": "Mansión inteligente en isla artificial con tecnología holográfica y spa bajo el nivel del mar.",
     "images": [
-      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
-      "https://images.unsplash.com/photo-1518684079-3c830dcef090"
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b"
     ],
     "specs": { "area": "5 hectares", "helipad": true, "privacy_level": "High" }
   },
@@ -83,10 +83,10 @@
     "location": "Chile",
     "price": 42000000,
     "category": "Wild",
-    "description": "Rodeada de glaciares y bosques milenarios. Una reserva natural privada para el aventurero multimillonario.",
+    "description": "Lodge de lujo en madera noble y piedra volcánica, rodeado de glaciares y bosques privados.",
     "images": [
-      "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7",
-      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1"
+      "https://images.unsplash.com/photo-1464146072230-91cabc968266",
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739"
     ],
     "specs": { "area": "500 hectares", "helipad": false, "privacy_level": "Absolute" }
   },
@@ -96,10 +96,10 @@
     "location": "Japón",
     "price": 150000000,
     "category": "Zen",
-    "description": "Inspirada en la filosofía Wabi-Sabi. Jardines de piedra, manantiales termales naturales y total silencio.",
+    "description": "Pabellones de estilo Wabi-sabi con Onsen privado y jardines Zen diseñados por maestros locales.",
     "images": [
-      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
-      "https://images.unsplash.com/photo-1528164344705-47542687990d"
+      "https://images.unsplash.com/photo-1503899036084-c55cdd92da26",
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
     ],
     "specs": { "area": "12 hectares", "helipad": true, "privacy_level": "Extreme" }
   },
@@ -109,10 +109,10 @@
     "location": "Islas Galápagos",
     "price": 210000000,
     "category": "Eco",
-    "description": "Un santuario biológico único. Construcción bajo estrictas normas de impacto cero y lujo consciente.",
+    "description": "Villa orgánica de diseño fluido que imita las formas naturales de la isla. Máximo confort consciente.",
     "images": [
-      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5",
-      "https://images.unsplash.com/photo-1526333282444-837a389b0389"
+      "https://images.unsplash.com/photo-1433838552652-f9a46b332c40",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
     ],
     "specs": { "area": "80 hectares", "helipad": false, "privacy_level": "Ultra" }
   },
@@ -122,10 +122,10 @@
     "location": "Maldivas",
     "price": 1100000000,
     "category": "Ultra-Luxury",
-    "description": "La isla más cara del mundo. 5 residencias independientes, discoteca privada subterránea y servicio de 100 empleados.",
+    "description": "Complejo de 5 villas flotantes conectadas por pasarelas de vidrio sobre aguas turquesas.",
     "images": [
-      "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
-      "https://images.unsplash.com/photo-1471922694854-ff1b63b20054"
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
     ],
     "specs": { "area": "200 hectares", "helipad": true, "privacy_level": "Total" }
   },
@@ -135,10 +135,10 @@
     "location": "Seychelles",
     "price": 310000000,
     "category": "Tropical",
-    "description": "Playas de granito rosado y aguas cristalinas. Ideal para pesca deportiva y relax total.",
+    "description": "Villas abiertas con techos de palma tejida y suelos de madera exótica de alta resistencia.",
     "images": [
-      "https://images.unsplash.com/photo-1483683393433-71f65166240d",
-      "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd"
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "https://images.unsplash.com/photo-1471922694854-ff1b63b20054"
     ],
     "specs": { "area": "65 hectares", "helipad": true, "privacy_level": "High" }
   },
@@ -148,7 +148,7 @@
     "location": "Irlanda",
     "price": 55000000,
     "category": "Historic",
-    "description": "Un castillo del siglo XIV restaurado en su propia isla fluvial. Historia y modernidad unidas.",
+    "description": "Castillo fortificado con tecnología de seguridad moderna y biblioteca de dos pisos en la torre norte.",
     "images": [
       "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
       "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
@@ -161,10 +161,10 @@
     "location": "Polinesia",
     "price": 275000000,
     "category": "Tropical",
-    "description": "Frente al Monte Otemanu, ofrece la mejor puesta de sol del Pacífico sur.",
+    "description": "Mansión de planta abierta con vistas ininterrumpidas al Monte Otemanu y bodega climatizada.",
     "images": [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "https://images.unsplash.com/photo-1500673319917-e389218d2f64"
     ],
     "specs": { "area": "25 hectares", "helipad": true, "privacy_level": "Ultra" }
   },
@@ -174,7 +174,7 @@
     "location": "Vietnam",
     "price": 190000000,
     "category": "Exotic",
-    "description": "En el corazón de la bahía de Ha Long. Formaciones kársticas privadas y cuevas iluminadas.",
+    "description": "Refugio incrustado en la roca con terrazas de observación voladas sobre la bahía.",
     "images": [
       "https://images.unsplash.com/photo-1528127269322-539801943592",
       "https://images.unsplash.com/photo-1536431311719-398b6704d4cc"
@@ -187,7 +187,7 @@
     "location": "Croacia",
     "price": 115000000,
     "category": "Mediterranean",
-    "description": "Cerca de Dubrovnik, una joya adriática con viñedos propios y producción de aceite de oliva.",
+    "description": "Finca mediterránea de piedra blanca con producción privada de vino y helipuerto camuflado.",
     "images": [
       "https://images.unsplash.com/photo-1534351590666-13e3e96b5017",
       "https://images.unsplash.com/photo-1514933651103-005eec06c04b"
@@ -200,10 +200,10 @@
     "location": "Sudáfrica",
     "price": 88000000,
     "category": "Wild",
-    "description": "Encuentro del Atlántico y el Índico. Avistamiento de ballenas desde tu terraza principal.",
+    "description": "Casa de acero y hormigón visto con ventanales blindados y vistas al paso de las ballenas.",
     "images": [
-      "https://images.unsplash.com/photo-1505118380757-91f5f45d8de4",
-      "https://images.unsplash.com/photo-1449034446853-66c86144b0ad"
+      "https://images.unsplash.com/photo-1449034446853-66c86144b0ad",
+      "https://images.unsplash.com/photo-1516939884455-1445c8652f83"
     ],
     "specs": { "area": "150 hectares", "helipad": true, "privacy_level": "High" }
   },
@@ -213,7 +213,7 @@
     "location": "Filipinas",
     "price": 420000000,
     "category": "Tropical",
-    "description": "Buceo de clase mundial en tu propio arrecife. Arena tan fina que parece harina.",
+    "description": "Complejo palaciego con playa de arena de sílice y un centro de buceo privado de última generación.",
     "images": [
       "https://images.unsplash.com/photo-1468413253725-0d5181091126",
       "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6"
@@ -226,7 +226,7 @@
     "location": "Noruega",
     "price": 60000000,
     "category": "Arctic",
-    "description": "Ubicada en un fiordo profundo. El lugar perfecto para observar auroras boreales en invierno.",
+    "description": "Villa térmica de diseño brutalista ubicada en lo profundo de un fiordo para aislamiento absoluto.",
     "images": [
       "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
       "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
@@ -239,7 +239,7 @@
     "location": "Belice",
     "price": 145000000,
     "category": "Tropical",
-    "description": "Sostenibilidad y lujo. Granja solar, desalinización propia y el Blue Hole a pocos minutos.",
+    "description": "Arquitectura modular sustentable en un entorno de arrecife protegido. Lujo sin huella de carbono.",
     "images": [
       "https://images.unsplash.com/photo-1504851149312-7a075b496cc7",
       "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57"
@@ -252,7 +252,7 @@
     "location": "Fiji",
     "price": 950000000,
     "category": "Ultra-Luxury",
-    "description": "Un antiguo volcán inactivo transformado en una fortaleza de lujo con pistas de tenis y cine privado.",
+    "description": "Una verdadera fortaleza de lujo. 300 hectáreas de terreno volcánico con pistas de tenis profesionales.",
     "images": [
       "https://images.unsplash.com/photo-1495954484750-af469f2f9be5",
       "https://images.unsplash.com/photo-1502082553048-f009c37129b9"
